@@ -1,49 +1,52 @@
 <div align="center">
-  <img src="main/logo.png" alt="KT Optimizer Logo" width="120" />
+  <img src="public/logo.png" alt="KT Optimizer Logo" width="160" />
 
-  # KT Optimizer - Site Oficial
+  # 🌌 KT Optimizer - site Oficial
 
-  **Otimização extrema para Windows, feita por quem entende.**
+  **A fronteira final da performance para Windows. Design imersivo, interativo e ultra-veloz.**
 
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
   [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 </div>
 
-<br />
+---
 
-## ⚡ Sobre o Projeto
+## ✨ Design Premium & Interatividade
+Este não é apenas um site informativo; é uma vitrine tecnológica que utiliza as mais modernas técnicas de interface:
 
-Este repositório contém o código-fonte do site oficial do **KT Optimizer**, uma suíte de ferramentas projetada para extrair o máximo de performance do seu hardware, seja para jogos, produtividade ou uso geral. 
+*   **⚛️ Rede de Nódulos Interativa:** Fundo dinâmico em **HTML5 Canvas** que reage ao movimento do mouse, criando conexões neurais em tempo real.
+*   **💎 Glassmorphism 2.0:** Interface translúcida com desfoque profundo e bordas em gradiente animado.
+*   **🔮 Efeitos Holográficos:** Cards de desenvolvedores com reflexo holográfico e iluminação dinâmica.
+*   **🎭 Movimento Fluido:** Animações de rolagem e micro-interações que tornam a navegação extremamente premium.
 
-O site foi construído com foco em **alta performance e estética premium**, utilizando bibliotecas modernas como React, Vite e TailwindCSS, além de adotar os estilos visuais *Glassmorphism*, gradientes imersivos e animações avançadas.
+## ⚡ O que é o KT Optimizer?
+O **KT Optimizer** é uma suíte de ferramentas projetada para extrair cada gota de potência do seu hardware.
 
-## 🚀 O que o KT Optimizer faz?
+- **🚀 FPS Máximo:** Ajustes de Kernel e latência para jogos competitivos.
+- **🧠 Telemetria Zero:** Privacidade absoluta com a remoção de rastreadores do sistema.
+- **🧹 Debloat Profundo:** Remoção de serviços inúteis e aplicativos de fábrica.
+- **🌐 Rede Otimizada:** Otimização TCP/IP para estabilizar o ping.
 
-- **Mais FPS:** Otimizações diretas no kernel e drivers.
-- **Menos RAM:** Redução de processos e serviços não vitais do Windows.
-- **Sem Telemetria:** Remoção do rastreamento agressivo da Microsoft.
-- **Boot Rápido:** Desativação de pacotes na inicialização.
-- **Rede Otimizada:** Tweaks de latência (TCP/IP) para menor ping.
-- **Sem Bloatware:** Remoção de software e aplicativos lixo vindos de fábrica.
+## 🛠️ Tecnologias Utilizadas
+- **React 18** (Biblioteca de UI)
+- **Vite** (Bundler de última geração)
+- **Tailwind CSS** (Estilização)
+- **HTML5 Canvas** (Fundo Interativo)
 
-## 💻 Próximos Lançamentos (Roadmap)
+---
 
-- **KT Optimizer VIP:** A tão aguardada versão reescrita em **C#**, focada 100% em entregar mais estabilidade, bypass de segurança superior e personalizações inéditas.
-- **AME Wizard Custom:** Uma playbook baseada no projeto AME Wizard para debloat completo e focado.
-- **Discord Lite & Spotify Lite:** Versões remodeladas para usar o mínimo de memória e CPU enquanto você joga.
-
-
-
-## 👥 A Equipe
-
+## 👥 Conheça a Equipe
 *   🔥 **@kelvenapk** - Programador Principal
-*   📣 **@thurdev155** - Divulgação e Marketing
+*   📣 **@thurdev155** - Marketing e Comunidade
 *   🛡️ **@pegaso0x1337** - Engenheiro de Segurança
 
-<br />
-
 <div align="center">
-  Junte-se a nós no <strong><a href="https://discord.gg/ZmayZzzswC">Discord Oficial</a></strong>! <br />
+  <br />
+  <h3>Participe da Revolução</h3>
+  <a href="https://discord.gg/ZmayZzzswC">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <br /><br />
   © 2026 KT Optimizer. Todos os direitos reservados.
 </div>
