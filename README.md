@@ -20,7 +20,7 @@ Este não é apenas um site informativo; é uma vitrine tecnológica que utiliza
 *   **🎭 Movimento Fluido:** Animações de rolagem e micro-interações que tornam a navegação extremamente premium.
 
 ## ⚡ O que é o KT Optimizer?
-O **KT Optimizer** é uma suíte de ferramentas projetada para extrair cada gota de potência do seu hardware.
+O **KT Optimizer** é uma conjunto de ferramentas projetada para extrair cada gota de potência do seu hardware.
 
 - **🚀 FPS Máximo:** Ajustes de Kernel e latência para jogos competitivos.
 - **🧠 Telemetria Zero:** Privacidade absoluta com a remoção de rastreadores do sistema.
