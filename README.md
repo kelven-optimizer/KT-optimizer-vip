@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="KT Optimizer Logo" width="120" />
+  <img src="main/logo.png" alt="KT Optimizer Logo" width="120" />
 
   # KT Optimizer - Site Oficial
 
