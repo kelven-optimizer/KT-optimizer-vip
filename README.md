@@ -1,7 +1,7 @@
 <div align="center">
   <img src="public/logo.png" alt="KT Optimizer Logo" width="160" />
 
-  # 🌌 KT Optimizer - site Oficial
+  #  KT Optimizer - site Oficial
 
 
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
